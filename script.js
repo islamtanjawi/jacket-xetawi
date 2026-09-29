@@ -63,6 +63,6 @@ form.addEventListener("submit", async (event) => {
       "error"
     );
     submitBtn.disabled = false;
-    submitBtn.textContent = "تأكيد الطلب — 260 درهم";
+    submitBtn.textContent = "تأكيد الطلب — 250 درهم";
   }
 });
